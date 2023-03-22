@@ -1,0 +1,8 @@
+[DEFAULT]
+bazowa_geometria = 655x559+45+8
+last_kraj = Poland
+last_miesiac = 6
+last_dzien1 = 11
+last_dzien2 = 11
+last_iszgony = zgony
+
